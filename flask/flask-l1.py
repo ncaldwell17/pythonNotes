@@ -26,4 +26,6 @@ def about():
 if __name__ == "__main__":
     app.run(debug=True)
 
+# I can quit by CNTRL + C
+
 
